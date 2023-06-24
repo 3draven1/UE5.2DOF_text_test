@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projekty/UE5/DOFProj/DOFProj/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Projekty/UE5/DOFProj/DOFProj/Content/ThirdPerson/Blueprints/CharName.uasset",
+				"D:/Projekty/UE5/DOFProj/DOFProj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"D:/Projekty/UE5/DOFProj/DOFProj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/LL/S6BL4Y3RDLLP71THA05QKD.uasset",
+				"D:/Projekty/UE5/DOFProj/DOFProj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/7O/QQ8H373VXEIL9IS9WHUJ0A.uasset",
+				"D:/Projekty/UE5/DOFProj/DOFProj/Content/NewMaterialInstanceConstant.uasset",
+				"D:/Projekty/UE5/DOFProj/DOFProj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"D:/Projekty/UE5/DOFProj/DOFProj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"D:/Projekty/UE5/DOFProj/DOFProj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/8X/V1DWSMAYZGPVRJTGH82VC2.uasset",
+				"D:/Projekty/UE5/DOFProj/DOFProj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/21/VF8ORMKQD0ZP0XOSLIOCM3.uasset",
+				"D:/Projekty/UE5/DOFProj/DOFProj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/5M/L8193MVERI3RLWZRYR22XZ.uasset",
+				"D:/Projekty/UE5/DOFProj/DOFProj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8V/E56FRIN965XEA8EI9S4MJT.uasset",
+				"D:/Projekty/UE5/DOFProj/DOFProj/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/R4/8QTGCSJG81APWQRRZNIFHQ.uasset"
+			]
+		}
+	]
+}
